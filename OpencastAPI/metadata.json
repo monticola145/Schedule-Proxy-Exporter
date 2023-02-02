@@ -1,0 +1,127 @@
+[
+  {
+    "flavor": "dublincore/episode",
+    "title": "EVENTS.EVENTS.DETAILS.CATALOG.EPISODE",
+    "fields": [
+      {
+        "readOnly": false,
+        "id": "title",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.TITLE",
+        "type": "text",
+        "value": "test",
+        "required": true
+      },
+      {
+        "readOnly": false,
+        "id": "subjects",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.SUBJECT",
+        "type": "text",
+        "value": [
+          "TestSubject"
+        ],
+        "required": false
+      },
+      {
+        "readOnly": false,
+        "id": "description",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.DESCRIPTION",
+        "type": "text_long",
+        "value": "test",
+        "required": false
+      },
+      {
+        "translatable": true,
+        "readOnly": false,
+        "id": "language",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.LANGUAGE",
+        "type": "text",
+        "value": "ara",
+        "required": false
+      },
+      {
+        "readOnly": false,
+        "id": "rightsHolder",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.RIGHTS",
+        "type": "text",
+        "value": "",
+        "required": false
+      },
+      {
+        "translatable": true,
+        "readOnly": false,
+        "id": "license",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.LICENSE",
+        "type": "text",
+        "value": "ALLRIGHTS",
+        "required": false
+      },
+      {
+        "translatable": false,
+        "readOnly": false,
+        "id": "isPartOf",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.SERIES",
+        "type": "text",
+        "value": "",
+        "required": false
+      },
+      {
+        "translatable": false,
+        "readOnly": false,
+        "id": "creator",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.PRESENTERS",
+        "type": "mixed_text",
+        "value": [
+          "Google Events Exporter"
+        ],
+        "required": false
+      },
+      {
+        "translatable": false,
+        "readOnly": false,
+        "id": "contributor",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.CONTRIBUTORS",
+        "type": "mixed_text",
+        "value": [
+          ""
+        ],
+        "required": false
+      },
+      {
+        "readOnly": false,
+        "id": "startDate",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.START_DATE",
+        "type": "date",
+        "value": "2022-11-19T05:00:00.000Z",
+        "required": false
+      },
+      {
+        "readOnly": true,
+        "id": "created",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.CREATED",
+        "type": "date",
+        "value": "2022-11-19T05:00:00.000Z",
+        "required": false
+      },
+      {
+        "readOnly": true,
+        "id": "publisher",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.PUBLISHER",
+        "type": "text",
+        "value": "Google Events Exporter",
+        "required": false
+      },
+      {
+        "readOnly": true,
+        "id": "identifier",
+        "label": "EVENTS.EVENTS.DETAILS.METADATA.ID",
+        "type": "text",
+        "value": "948ed0ef-1058-4457-be72-e50ce5bd981d",
+        "required": false
+      },
+      {
+        "id": "source",
+        "value": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "flavor": "dublincore/series",
+      "title": "SERIES.SERIES.DETAILS.CATALOG.EPISODE",
+      "fields": [
+        {
+          "readOnly": false,
+          "id": "title",
+          "label": "EVENTS.SERIES.DETAILS.METADATA.TITLE",
+          "type": "text",
+          "value": "Высшая математика для квантовой информатики (рус) - ВМКИ_М2021_НКВТ#П#Высшая математика для квантовой информатики - 2021/2022",
+          "required": true
+        },
+        {
+          "readOnly": false,
+          "id": "subjects",
+          "label": "EVENTS.SERIES.DETAILS.METADATA.SUBJECT",
+          "type": "text",
+          "value": [
+            "ВМКИ_М2021_НКВТ#П#Высшая математика для квантовой информатики"
+          ],
+          "required": false
+        }
+      ]
+    }
+  ]

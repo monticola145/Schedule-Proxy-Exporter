@@ -1,0 +1,22 @@
+[
+    {
+      "allow": true,
+      "action": "read",
+      "role": "ROLE_USER_RAYANDIEV"
+    },
+    {
+      "allow": true,
+      "action": "write",
+      "role": "ROLE_USER_RAYANDIEV"
+    },
+    {
+      "allow": true,
+      "action": "read",
+      "role": "ROLE_USER_EVENTS_EXPORTER"
+    },
+    {
+      "allow": true,
+      "action": "write",
+      "role": "ROLE_USER_EVENTS_EXPORTER"
+    }
+  ]
