@@ -25,7 +25,6 @@ def main():
     schedule.every().day.at("17:55").do(upload)
     schedule.every().day.at("18:05").do(upload)
     schedule.every().day.at("20:00").do(upload)
-    schedule.every().day.at("23:04").do(upload)
 
     while True:
         schedule.run_pending()
