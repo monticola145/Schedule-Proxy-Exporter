@@ -34,7 +34,7 @@
 
 Для использования приложения необходимо загрузить его? затем развернуть приложение, создав виртуальное окружение и установив зависимости:
 
-- git clone https://git.miem.hse.ru/19102/schedule-proxy-exporter-release.git
+- git clone git@github.com:monticola145/Schedule-Proxy-Exporter.git
 - python -m venv venv && source venv/Scripts/activate
 - pip install -r requirements.txt
 
