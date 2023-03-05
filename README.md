@@ -75,6 +75,14 @@ python exporting_script.py
 
     То есть скрипт активируется за 5 минут до начала пары и через 15 минут после её окончания
     
+### Автор:
+
+[Monticola]
+Git - https://github.com/monticola
+Email - ```jandiev2001@yandex.ru```
+
+
+
     # schedule-proxy-exporter
 
 ## About the app
@@ -151,3 +159,10 @@ Congratulations, you are great. The program has started and nothing can stop it.
     - 20:00
 
     That is, the script is activated 5 minutes before the start of the pair and 15 minutes after the end of the pair
+    
+### Author:
+
+[Monticola]
+Git - https://github.com/monticola
+Email - ``jandiev2001@yandex.ru``
+
